@@ -1,0 +1,15 @@
+{
+    "name": "migo/pinnaclex",
+    "authors": [
+        {
+            "name": "migo1",
+            "email": "ertmigot@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
